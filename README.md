@@ -1,2 +1,0 @@
-# DebitPinSetter
-JavaFX PIN project
